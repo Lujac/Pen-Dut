@@ -1,0 +1,269 @@
+*{
+
+    text-align: center;
+} 
+
+#deco {
+
+
+    position : relative;
+    top: 100px;
+}
+
+#imgperdu {
+
+
+    position: relative;
+}
+
+
+
+
+body {
+  font  : 21px sans-serif;
+
+  padding : 2em;
+  margin  : 0;
+
+  background : #284253;
+}
+
+#formulaire {
+  position: relative;
+
+  width  : 740px;
+  height : 250px;
+  margin : 0 auto;
+    
+  background:#8fcdd42e;
+  color: white;
+}
+input, textarea {
+  font    : .9em/1.5em "handwriting", sans-serif;
+
+  border  : none;
+  padding : 0 10px;
+  margin  : 0;
+  width   : 240px;
+
+  
+}
+
+#Connect {
+background: #6791b4;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #3b5b6a;
+text-shadow:none;
+}
+#Connect:hover {
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #284253;
+text-shadow:none;
+}
+input {
+    height: 2.5em; /* pour IE */
+    vertical-align: middle; /* optionnel mais donne meilleur aspect pour IE */
+}
+
+textarea {
+  display : block;
+
+  padding : 10px;
+  margin  : 10px 0 0 -10px;
+  width   : 340px;
+  height  : 360px;
+
+  resize  : none;
+  overflow: auto;
+}
+
+#Score {
+
+background: #6791b4;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #3b5b6a;
+text-shadow:none;
+
+}
+
+#Score:hover {
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #284253;
+text-shadow:none;
+}
+
+#Presentation h3 {
+
+    color : #ffffff;
+    
+    }
+    
+    #Presentation p {
+    
+    color : #ffffff;
+    
+    }
+
+h1, h2 {
+
+color : white;
+}    
+#Info {
+    color: white;
+  }
+  
+  #formulaire2{
+    position: relative;
+  
+    width  : 800px;
+    height : 100px;
+    margin : 0 auto;
+      
+    background:#8fcdd42e;
+    color : white;
+  }
+
+
+#formulaire2 input {
+
+  background:#009eb052;
+  color: #fff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #3b5b6a;
+  text-shadow:none;
+}
+
+#formulaire2 input:hover {
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #284253;
+text-shadow:none;
+}
+
+#Objectif {
+
+    color: white;
+      
+}
+
+#essai {
+
+    color: white;
+  }
+
+  #Jeu {
+
+    position: relative;
+    width  : 740px;
+    height : 150px;
+    margin : 0 auto; 
+    background:#8fcdd42e;
+    color: white;
+    
+  }
+
+  #lettresaisi {
+
+    width : 50px;
+  }
+
+  #LettreEnvoie {
+    position : relative;
+    left : 10px;
+    background: #6791b4;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #3b5b6a;
+    text-shadow:none;
+  }
+
+  #LettreEnvoie:hover {
+background: #016ABC;
+color: #fff;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #284253;
+text-shadow:none;
+}
+
+#Deconnect {
+    background: #6791b4;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #3b5b6a;
+    text-shadow:none;
+    }
+    #Deconnect:hover {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #284253;
+    text-shadow:none;
+    }
+
+    #Theme {
+        background: #6791b4;
+        color: #fff;
+        border: 1px solid #eee;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px #3b5b6a;
+        text-shadow:none;
+        }
+        #Theme:hover {
+        background: #016ABC;
+        color: #fff;
+        border: 1px solid #eee;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px #284253;
+        text-shadow:none;
+        }
+
+        #rejouer {
+
+            background: #6791b4;
+            color: #fff;
+            border: 1px solid #eee;
+            border-radius: 20px;
+            box-shadow: 5px 5px 5px #3b5b6a;
+            text-shadow:none;
+    
+            }
+    
+            #rejouer:hover {
+            background: #016ABC;
+            color: #fff;
+            border: 1px solid #eee;
+            border-radius: 20px;
+            box-shadow: 5px 5px 5px #284253;
+            text-shadow:none;
+            }
+
+
+            #bdd {
+
+                color: white;
+              }
+
+              #gagner {
+
+                color: white;
+              }
+
+              #aurevoir {
+
+                color: white;
+              }
